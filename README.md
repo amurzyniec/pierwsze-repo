@@ -5,7 +5,7 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 ## Autor
  
 - Imię i nazwisko: Adam Murzyniec
-- Czym się zajmuję: Student
+- Czym się zajmuję: Student PWr
  
 ## Czego się tu uczę
  
