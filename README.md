@@ -5,7 +5,7 @@ Repozytorium założone na zajęciach z **Praktycznych aspektów pracy Data Scie
 ## Autor
  
 - Imię i nazwisko: Adam Murzyniec
-- Czym się zajmuję: Pracuję w dziale finansowym
+- Czym się zajmuję: Student
  
 ## Czego się tu uczę
  
